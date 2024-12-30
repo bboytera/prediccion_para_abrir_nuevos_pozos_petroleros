@@ -32,7 +32,7 @@ Los datos de exploración geológica de las tres regiones se almacenan en estos 
 - `Matplotlib`
 - `Scikit-learn`
 - `Scipy`
--  bootstrapping`
+- `bootstrapping`
 - `Validación cruzada`
 # Conclusiones generales
 - Realizamos un (EDA) de cada una de las regiones asi como un preprocesamiento de los datos
