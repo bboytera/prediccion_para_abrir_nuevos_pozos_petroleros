@@ -26,14 +26,14 @@ Los datos de exploración geológica de las tres regiones se almacenan en estos 
   - `f0, f1, f2` — tres características de los puntos (su significado específico no es importante, pero las características en sí son significativas)
   -`product`— volumen de reservas en el pozo de petróleo (miles de barriles).
 # Habilidades técnicas
-- Phyton
-- Numpy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Scipy
-- bootstrapping
-- Validación cruzada
+- `Phyton`
+- `Numpy`
+- `Pandas`
+- `Matplotlib`
+- `Scikit-learn`
+- `Scipy`
+-  bootstrapping`
+- `Validación cruzada`
 # Conclusiones generales
 - Realizamos un (EDA) de cada una de las regiones asi como un preprocesamiento de los datos
 - Separamos las caracteristicas y obtetivos con un 75% en el conjunto de entrenamiento y un 25% en el conjunto de validación
